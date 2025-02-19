@@ -90,53 +90,14 @@ Una vez que has diseñado y programado tu aplicación, puedes probarla en tu tel
 - Escanea el **código QR** o introduce el **código de conexión**.
 - La app se ejecutará en el teléfono en **tiempo real**.
 
-📌 **Imagen recomendada:**  
-- **Código QR de ejemplo en la pantalla de conexión**  
-  📂 **Ubicación**: `assets/conexion_qr.png`  
-  📜 **Referencia:**  
-  ```md
-  ![Conectar con AI2 Companion](../assets/conexion_qr.png)
-  ```
+📌 **Código QR de ejemplo en la pantalla de conexión**  
+<div align="center">
+  <img src="../assets/conexion_qr.png" alt="Ejemplo de bloques en App Inventor" width="500" >
+</div>
 
 ✅ **Ventajas:**  
 ✔ No requiere instalar la app en el celular.  
 ✔ Se pueden hacer pruebas en tiempo real.  
-
-## **2️⃣ Método 2: Descargar el APK e Instalarlo**
-1. En App Inventor, haz clic en **"Build" > "App (save .apk to my computer)"**.
-2. Descarga el archivo `.apk`.
-3. Pásalo a tu teléfono mediante **USB, correo o Google Drive**.
-4. Instálalo manualmente activando la opción de **"Orígenes desconocidos"** en Android.
-
-📌 **Imagen recomendada:**  
-- **Captura de la opción "Build App" en App Inventor**  
-  📂 **Ubicación**: `assets/build_apk.png`  
-  📜 **Referencia:**  
-  ```md
-  ![Descargar APK](../assets/build_apk.png)
-  ```
-
-✅ **Ventajas:**  
-✔ Permite instalar la app sin necesidad de conexión a App Inventor.  
-✔ Se puede compartir el APK con otras personas.  
-
-
-## **3️⃣ Método 3: Usar un Emulador en la Computadora**
-1. Instala el **Emulador de App Inventor** desde la página oficial.  
-2. En App Inventor, ve a **"Connect" > "Emulator"**.  
-3. Espera a que cargue y prueba la app en la computadora.
-
-📌 **Imagen recomendada:**  
-- **Ejemplo de la app ejecutándose en el emulador**  
-  📂 **Ubicación**: `assets/emulador_appinventor.png`  
-  📜 **Referencia:**  
-  ```md
-  ![App Inventor Emulator](../assets/emulador_appinventor.png)
-  ```
-
-✅ **Ventajas:**  
-✔ No necesitas un celular para probar la app.  
-✔ Útil si tienes problemas de conexión con AI2 Companion.  
 
 
 # **📌 Conclusión**
