@@ -11,13 +11,11 @@
 ✅ Fomentar la creatividad y resolución de problemas en entornos educativos.  
 ✅ Crear aplicaciones funcionales para dispositivos Android de manera rápida.  
 
-📌 **Imagen recomendada:**  
-- **Logo de App Inventor**  
-  📂 **Ubicación en la carpeta**: `assets/appinventor_logo.png`  
-  📜 **Referencia en Markdown:**  
-  ![Logo de App Inventor](../assets/appinventor_logo.png)
+📌 **Logo de AppInvnetor:**  
 
-
+<div align="center">
+  <img src="../assets/appinventor_logo.png" alt="Logo de App Inventor" width="300">
+</div>
 ---
 
 # **📌 Primeros Pasos en App Inventor**
@@ -29,14 +27,11 @@ Para comenzar a desarrollar una aplicación en **App Inventor**, sigue estos pas
 2. Haz clic en **"Create Apps!"**.
 3. Inicia sesión con una cuenta de **Google**.
 
-📌 **Imagen recomendada:**  
-- **Captura de pantalla de la página inicial de App Inventor.**  
-  📂 **Ubicación**: `assets/appinventor_inicio.png`  
-  📜 **Referencia:**  
-  ```md
-  ![Pantalla inicial de App Inventor](../assets/appinventor_inicio.png)
-  ```
-
+📌 **Pantalla inicial pagina de AppInventor:**   
+<!-- Pantalla inicial de App Inventor -->
+<div align="center">
+  <img src="../assets/appinventor_inicio.png" alt="Pantalla inicial de App Inventor" width="500">
+</div>
 ---
 
 ## **2️⃣ Crear un Nuevo Proyecto**
@@ -44,13 +39,12 @@ Para comenzar a desarrollar una aplicación en **App Inventor**, sigue estos pas
 2. Escribe un **nombre para tu proyecto** (Ejemplo: `MiPrimeraApp`).
 3. Presiona **"OK"**.
 
-📌 **Imagen recomendada:**  
-- **Captura del botón "Start New Project"**  
-  📂 **Ubicación**: `assets/nuevo_proyecto.png`  
-  📜 **Referencia:**  
-  ```md
-  ![Crear nuevo proyecto](../assets/nuevo_proyecto.png)
-  ```
+📌 **Nuevo proyecto:**  
+
+<!-- Crear nuevo proyecto -->
+<div align="center">
+  <img src="../assets/nuevo_proyecto.png" alt="Crear nuevo proyecto" width="500">
+</div>
 
 ---
 
@@ -63,28 +57,23 @@ La interfaz de App Inventor tiene tres partes principales:
 | **Editor de Bloques (Blocks)** | Define la lógica de la aplicación mediante bloques. |
 | **Emulador o Conexión con el Teléfono** | Permite probar la app en tiempo real. |
 
-📌 **Imagen recomendada:**  
-- **Captura de la interfaz con sus tres secciones**  
-  📂 **Ubicación**: `assets/interfaz_appinventor.png`  
-  📜 **Referencia:**  
-  ```md
-  ![Interfaz de App Inventor](../assets/interfaz_appinventor.png)
-  ```
-
 ---
 
-## **4️⃣ Diseñar la Interfaz de la App**
+## **4️⃣ Interfaz de diseñador de apps**
 1. **Arrastra componentes** al área de diseño (botones, etiquetas, imágenes, etc.).
+
+📌 **Sección de componentes:**
+<!-- Crear nuevo proyecto -->
+<div align="center">
+  <img src="../assets/seccion_componentes.png" alt="Crear nuevo proyecto" width="500">
+</div>
+
 2. Personaliza las propiedades de los elementos (color, tamaño, texto).
-
-📌 **Imagen recomendada:**  
-- **Ejemplo de una interfaz simple con un botón y un texto.**  
-  📂 **Ubicación**: `assets/interfaz_ejemplo.png`  
-  📜 **Referencia:**  
-  ```md
-  ![Ejemplo de interfaz](../assets/interfaz_ejemplo.png)
-  ```
-
+   
+📌 **Sección de configuración de componentes:**
+<div align="center">
+  <img src="../assets/seccion_propiedades.png" alt="Crear nuevo proyecto" width="500">
+</div>
 ---
 
 ## **5️⃣ Programar con Bloques**
@@ -92,13 +81,12 @@ La interfaz de App Inventor tiene tres partes principales:
 2. Arrastra **bloques de control** y **eventos** (Ejemplo: "Cuando se presione el botón").
 3. Conéctalos para definir el comportamiento de la app.
 
-📌 **Imagen recomendada:**  
-- **Ejemplo de bloques de programación**  
-  📂 **Ubicación**: `assets/bloques_programacion.png`  
-  📜 **Referencia:**  
-  ```md
-  ![Ejemplo de bloques en App Inventor](../assets/bloques_programacion.png)
-  ```
+📌 **Seccion de bloques:**  
+
+<!-- Bloques de programación -->
+<div align="center">
+  <img src="../assets/seccion_bloques.png" alt="Ejemplo de bloques en App Inventor" width="500">
+</div>
 
 ---
 
