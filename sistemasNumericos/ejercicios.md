@@ -6,7 +6,7 @@
 Convierte los siguientes números de su base original a la base que se pide.
 
 - **(853)<sub>9</sub> → (X)<sub>7</sub>**  
-- **(591)<sub>6</sub> → (X)<sub>4</sub>**  
+- **(551)<sub>6</sub> → (X)<sub>4</sub>**  
 - **(6AF)<sub>16</sub> → (X)<sub>8</sub>**
 - **(111.01011)<sub>2</sub> → (X)<sub>4</sub>**
 - **32.45 → (X) <sub>4</sub>**
@@ -20,7 +20,7 @@ Convierte los siguientes números de su base original a la base que se pide.
 ## **Ejercicio 2: Operaciones con Diferentes Bases**  
 Realiza la siguiente suma considerando los sistemas numéricos dados:  
 
-- **(55A)<sub>12</sub> + (274)<sub>5</sub>**
+- **(55A)<sub>12</sub> + (274)<sub>8</sub>**
 - **(F256)<sub>16</sub> + (8345)<sub>9</sub>**
 - **(111.011)<sub>2</sub> + (1010.1101)<sub>2</sub>**
 - **2145 * (A2)<sub>12</sub>**
