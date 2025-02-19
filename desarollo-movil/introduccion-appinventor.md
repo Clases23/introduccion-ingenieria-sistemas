@@ -1,6 +1,5 @@
 
 ---
-
 # **📌 Introducción a App Inventor**
 ## **¿Qué es App Inventor?**
 **App Inventor** es una plataforma de desarrollo de aplicaciones para dispositivos **Android** creada por el **MIT (Massachusetts Institute of Technology)**. Su propósito es permitir que cualquier persona, sin conocimientos avanzados de programación, pueda crear **aplicaciones móviles** mediante una interfaz de desarrollo **visual y basada en bloques**.
@@ -16,7 +15,6 @@
 <div align="center">
   <img src="../assets/appinventor_logo.png" alt="Logo de App Inventor" width="300">
 </div>
----
 
 # **📌 Primeros Pasos en App Inventor**
 Para comenzar a desarrollar una aplicación en **App Inventor**, sigue estos pasos:
@@ -32,7 +30,6 @@ Para comenzar a desarrollar una aplicación en **App Inventor**, sigue estos pas
 <div align="center">
   <img src="../assets/appinventor_inicio.png" alt="Pantalla inicial de App Inventor" width="500">
 </div>
----
 
 ## **2️⃣ Crear un Nuevo Proyecto**
 1. Haz clic en **"Start New Project"**.
@@ -46,8 +43,6 @@ Para comenzar a desarrollar una aplicación en **App Inventor**, sigue estos pas
   <img src="../assets/nuevo_proyecto.png" alt="Crear nuevo proyecto" width="500">
 </div>
 
----
-
 ## **3️⃣ Interfaz de App Inventor**
 La interfaz de App Inventor tiene tres partes principales:
 
@@ -57,7 +52,6 @@ La interfaz de App Inventor tiene tres partes principales:
 | **Editor de Bloques (Blocks)** | Define la lógica de la aplicación mediante bloques. |
 | **Emulador o Conexión con el Teléfono** | Permite probar la app en tiempo real. |
 
----
 
 ## **4️⃣ Interfaz de diseñador de apps**
 1. **Arrastra componentes** al área de diseño (botones, etiquetas, imágenes, etc.).
@@ -74,7 +68,6 @@ La interfaz de App Inventor tiene tres partes principales:
 <div align="center">
   <img src="../assets/seccion_propiedades.png" alt="Crear nuevo proyecto" width="500">
 </div>
----
 
 ## **5️⃣ Programar con Bloques**
 1. Cambia a la pestaña **Blocks**.
@@ -85,10 +78,8 @@ La interfaz de App Inventor tiene tres partes principales:
 
 <!-- Bloques de programación -->
 <div align="center">
-  <img src="../assets/seccion_bloques.png" alt="Ejemplo de bloques en App Inventor" width="500">
+  <img src="../assets/seccion_bloques.png" alt="Ejemplo de bloques en App Inventor" width="700" >
 </div>
-
----
 
 # **📌 Métodos para Probar la Aplicación en un Celular**
 Una vez que has diseñado y programado tu aplicación, puedes probarla en tu teléfono de diferentes maneras:
@@ -111,8 +102,6 @@ Una vez que has diseñado y programado tu aplicación, puedes probarla en tu tel
 ✔ No requiere instalar la app en el celular.  
 ✔ Se pueden hacer pruebas en tiempo real.  
 
----
-
 ## **2️⃣ Método 2: Descargar el APK e Instalarlo**
 1. En App Inventor, haz clic en **"Build" > "App (save .apk to my computer)"**.
 2. Descarga el archivo `.apk`.
@@ -131,7 +120,6 @@ Una vez que has diseñado y programado tu aplicación, puedes probarla en tu tel
 ✔ Permite instalar la app sin necesidad de conexión a App Inventor.  
 ✔ Se puede compartir el APK con otras personas.  
 
----
 
 ## **3️⃣ Método 3: Usar un Emulador en la Computadora**
 1. Instala el **Emulador de App Inventor** desde la página oficial.  
@@ -150,18 +138,9 @@ Una vez que has diseñado y programado tu aplicación, puedes probarla en tu tel
 ✔ No necesitas un celular para probar la app.  
 ✔ Útil si tienes problemas de conexión con AI2 Companion.  
 
----
 
 # **📌 Conclusión**
 App Inventor es una herramienta poderosa para la creación de aplicaciones **sin necesidad de programar código complejo**. Con su **interfaz visual y bloques de programación**, es una excelente opción para aprender desarrollo móvil de manera sencilla.
 
 🚀 **¡Ahora puedes empezar a crear tus propias aplicaciones Android!**  
-
 ---
-
-✅ **Estas notas incluyen:**  
-✔ Explicación detallada de **qué es App Inventor y su propósito**.  
-✔ **Pasos para crear una app desde cero** con imágenes recomendadas.  
-✔ **Diferentes métodos para probar la aplicación en un celular**.  
-
-Si necesitas más información o ejemplos específicos, dime cómo quieres mejorar el contenido. 😃📱🚀
