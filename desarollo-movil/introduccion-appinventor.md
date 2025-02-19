@@ -15,9 +15,8 @@
 - **Logo de App Inventor**  
   📂 **Ubicación en la carpeta**: `assets/appinventor_logo.png`  
   📜 **Referencia en Markdown:**  
-  ```md
   ![Logo de App Inventor](../assets/appinventor_logo.png)
-  ```
+
 
 ---
 
