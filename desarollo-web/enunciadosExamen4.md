@@ -5,7 +5,7 @@
 
    * Deben entregar **dos archivos** separados:
 
-     * `examen_nombre2_nombre2.html` ➔ contendrá **solo** la estructura HTML y la referencia al script.
+     * `examen_nombre1_nombre2.html` ➔ contendrá **solo** la estructura HTML y la referencia al script.
      * `examen_nombre1_nombre2.js`   ➔ contendrá **todo** el código JavaScript.
 
 2. **Entrega**
@@ -38,7 +38,7 @@
      ```
 
      con `calificación` entre 0 y 5.
-   * Mediante un **for** y un **if/else**, recorre `estudiantes` y genera dinámicamente un `<ul>` en el `<body>` de `examen_nombre1_nombre2.html` que liste **solo** los nombres de quienes tienen calificación ≥ 60.
+   * Mediante un **for** y un **if/else**, recorre `estudiantes` y genera dinámicamente un `<ul>` en el `<body>` de `examen_nombre1_nombre2.html` que liste **solo** los nombres de quienes tienen calificación ≥ 3.
    * Usa `document.createElement` y `appendChild` (o `innerHTML`) para construir la lista.
 
 2. **Tabla de multiplicar automática**
