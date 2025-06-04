@@ -17,8 +17,6 @@ La siguiente evaluación práctica cubre los temas de SQL vistos en el curso, ut
 
 ```sql
 
--- Datos de ejemplo para las tablas
-
 -- Inserta todos los fabricantes
 INSERT INTO fabricante (id, nombre) VALUES
   (1, 'Asus'),
@@ -30,19 +28,21 @@ INSERT INTO fabricante (id, nombre) VALUES
   (7, 'Gigabyte'),
   (8, 'Huawei'),
   (9, 'Xiaomi');
--- Inserta todos los productos
-INSERT INTO producto (id, nombre, precio) VALUES
-  (1, 'Disco duro SATA3 1TB',        86.99),
-  (2, 'Memoria RAM DDR4 8GB',        120.00),
-  (3, 'Disco SSD 1 TB',             150.99),
-  (4, 'GeForce GTX 1050Ti',         185.00),
-  (5, 'GeForce GTX 1080 Xtreme',    755.00),
-  (6, 'Monitor 24 LED Full HD',     202.00),
-  (7, 'Monitor 27 LED Full HD',     245.99),
-  (8, 'Portatil Yoga 520',          559.00),
-  (9, 'Portatil Ideapad 320',       444.00),
-  (10,'Impresora HP Deskjet 3720',   59.99),
-  (11,'Impresora HP Laserjet Pro M26nw', 180.00);
+
+-- Inserta todos los productos, indicando fabricante_id
+INSERT INTO producto (id, nombre, precio, fabricante_id) VALUES
+  (1,  'Disco duro SATA3 1TB',         86.99,   5),  -- Seagate
+  (2,  'Memoria RAM DDR4 8GB',         120.00,  6),  -- Crucial
+  (3,  'Disco SSD 1 TB',              150.99,  5),  -- Seagate
+  (4,  'GeForce GTX 1050Ti',          185.00,  7),  -- Gigabyte
+  (5,  'GeForce GTX 1080 Xtreme',     755.00,  7),  -- Gigabyte
+  (6,  'Monitor 24 LED Full HD',      202.00,  4),  -- Samsung
+  (7,  'Monitor 27 LED Full HD',      245.99,  4),  -- Samsung
+  (8,  'Portátil Yoga 520',           559.00,  2),  -- Lenovo
+  (9,  'Portátil Ideapad 320',        444.00,  2),  -- Lenovo
+  (10, 'Impresora HP Deskjet 3720',    59.99,   3),  -- Hewlett-Packard
+  (11, 'Impresora HP Laserjet Pro M26nw', 180.00,   3);-- Hewlett-Packard
+
 
 ```
 
